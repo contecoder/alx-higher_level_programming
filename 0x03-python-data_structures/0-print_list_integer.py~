@@ -1,0 +1,12 @@
+#!/usr/bin/python3
+def print_list_integer(my_list[]):
+    """My print  function
+
+    Args:
+        mylist: list to print
+
+    Returns:
+        The return nothing
+    """
+    for i in my_list:
+        print(i)
